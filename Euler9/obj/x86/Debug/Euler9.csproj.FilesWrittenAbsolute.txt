@@ -1,0 +1,5 @@
+/Users/pedroconde/Documents/ProgrammingProjects/EulerProjects/C#/Euler9/Euler9/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/pedroconde/Documents/ProgrammingProjects/EulerProjects/C#/Euler9/Euler9/bin/Debug/Euler9.exe.mdb
+/Users/pedroconde/Documents/ProgrammingProjects/EulerProjects/C#/Euler9/Euler9/bin/Debug/Euler9.exe
+/Users/pedroconde/Documents/ProgrammingProjects/EulerProjects/C#/Euler9/Euler9/obj/x86/Debug/Euler9.exe
+/Users/pedroconde/Documents/ProgrammingProjects/EulerProjects/C#/Euler9/Euler9/obj/x86/Debug/Euler9.exe.mdb
